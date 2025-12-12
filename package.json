@@ -1,0 +1,13 @@
+{
+  "type": "module",
+  "scripts": {},
+  "devDependencies": {
+    "@types/lodash": "4.17.21",
+    "@types/node": "24.10.1",
+    "prettier": "3.7.4"
+  },
+  "dependencies": {
+    "lodash": "4.17.21",
+    "remeda": "2.32.0"
+  }
+}
